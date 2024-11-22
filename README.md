@@ -53,3 +53,4 @@
 4. Если коммиты найдены, строит граф с помощью **`build_graph`** и отображает его через Graphviz.
 ### Тест
 ![Тест](https://raw.githubusercontent.com/juliyurkova/conf_man2/refs/heads/main/capture_20241115122816517.bmp)
+![Результат выполнения программы](https://raw.githubusercontent.com/juliyurkova/conf_man2/refs/heads/main/capture_20241115122755181.bmp)

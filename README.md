@@ -52,3 +52,4 @@
 3. Вызывает **`get_commits`** для получения списка коммитов.
 4. Если коммиты найдены, строит граф с помощью **`build_graph`** и отображает его через Graphviz.
 ### Тест
+![Тест](https://raw.githubusercontent.com/juliyurkova/conf_man2/refs/heads/main/capture_20241115122816517.bmp)
